@@ -119,7 +119,7 @@ function App() {
             <div className="md:col-span-5 relative order-2 md:order-1">
               <div className="aspect-[4/5] rounded-2xl overflow-hidden bg-amber-900/5 dark:bg-amber-100/5 relative z-10">
                 <img 
-                  src="/hfzh.JPG" 
+                  src="/hfzh.webp" 
                   alt="Abstract representation" 
                   className="w-full h-full object-cover mix-blend-luminosity opacity-80 hover:mix-blend-normal hover:opacity-100 transition-all duration-700" 
                   referrerPolicy="no-referrer" 
